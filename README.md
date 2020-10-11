@@ -1,2 +1,2 @@
-# API-Rick-Morty
+# API | Rick & Morty
 First look and request
