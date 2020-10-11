@@ -1,0 +1,26 @@
+{
+  "name": "rickandmortyapi",
+  "version": "1.0.0",
+  "description": "First look and request",
+  "main": "index.js",
+  "scripts": {
+    "index": "node Callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgeorgie/API-Rick-Morty.git"
+  },
+  "keywords": [
+    "API",
+    "Javascript"
+  ],
+  "author": "Edwin Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgeorgie/API-Rick-Morty/issues"
+  },
+  "homepage": "https://github.com/edgeorgie/API-Rick-Morty#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
