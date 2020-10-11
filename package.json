@@ -4,7 +4,8 @@
   "description": "First look and request",
   "main": "index.js",
   "scripts": {
-    "index": "node Callback/index.js"
+    "callback": "node Callback/index.js",
+    "promises": "node Promises/index.js"
   },
   "repository": {
     "type": "git",
